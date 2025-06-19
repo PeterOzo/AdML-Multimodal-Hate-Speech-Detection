@@ -1,9 +1,6 @@
-## AdML-Multimodal-Hate-Speech-Detection
+## Advanced Multimodal Hate Speech Detection System
 
-
-### Advanced Multimodal Hate Speech Detection System
-
-## Project Overview
+### Project Overview
 
 This repository contains a comprehensive implementation of a **multimodal hate speech detection system** developed for **Advanced Machine Learning Lab**. The project combines state-of-the-art natural language processing and computer vision techniques to detect hate speech in social media content that contains both text and images, addressing the limitation of single-modality approaches in understanding context-dependent hate speech.
 
