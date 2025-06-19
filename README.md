@@ -1,7 +1,7 @@
 ## AdML-Multimodal-Hate-Speech-Detection
 
 
-### # Advanced Multimodal Hate Speech Detection System
+### Advanced Multimodal Hate Speech Detection System
 
 ## Project Overview
 
