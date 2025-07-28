@@ -1,4 +1,4 @@
-# HateMemeDetector - Multimodal Hate Speech Detection Platform: Advanced Computer Vision and NLP with Ensemble Machine Learning  
+# HateMemeDetector - Multimodal Hate Speech Detection Platform: Advanced Computer Vision and NLP with Ensemble Machine Learning   
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5+-orange.svg)](https://pytorch.org/)
